@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Radio LB — L’Actu du jour</title>
     <link>https://blj64.github.io/radio-lb-podcast/</link>
@@ -22,5 +19,16 @@
       <itunes:name>Radio LB</itunes:name>
       <itunes:email>blazeofficieux@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Le monde aujourd’hui — L’escalade militaire reprend en Iran</title>
+      <description>Bonjour à toutes et à tous. Voici Le monde aujourd’hui, votre rendez-vous avec les principales informations internationales et technologiques. Nous sommes le mercredi deux septembre deux mille vingt-six.
+
+Depuis notre précédente édition, les affrontements entre les États-Unis et l’Iran ont franchi une nouvelle étape. La Russie a prolongé sa campagne de frappes contre Kyiv et les infrastructures ukrainiennes. Au Népal, le bilan des inondations a encore augmenté, alors que les secours atteignent progressivement des zones isolées. Les ministres des finances du Groupe des vingt ont, eux, affiché un profond désaccord sur les déséquilibres du commerce mondial.</description>
+      <pubDate>Wed, 02 Sep 2026 03:00:00 +0200</pubDate>
+      <guid isPermaLink="false">radio-lb-2026-09-02</guid>
+      <enclosure url="https://github.com/blj64/radio-lb-podcast/releases/download/episode-2026-09-02/radio-lb-2026-09-02.mp3" length="13573293" type="audio/mpeg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:14:08</itunes:duration>
+    </item>
   </channel>
 </rss>
